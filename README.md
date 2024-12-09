@@ -5,6 +5,7 @@ Hi there! I'm Rakshitha D V, a passionate Developer with a keen interest in Tech
 
 🚀 About Me
 🌱 Currently pursuing engineering in learning Artifical Intelligence and Machine Learning.
+<br/>
 📫 How to reach me : rakshithadv859570@gmail.com
 <br/>
 
@@ -22,7 +23,7 @@ Hi there! I'm Rakshitha D V, a passionate Developer with a keen interest in Tech
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-
+<br/>
 ## 🌍 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshitha-d-v-347a452a0/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-008000?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rakshitha74zu/)
