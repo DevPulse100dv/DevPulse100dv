@@ -1,9 +1,12 @@
 🌟 Welcome to My GitHub Portfolio!
-Hi there! I'm devpulse100dv, a passionate Developer with a keen interest in Tech and Innovation.
+<br/>
+Hi there! I'm Rakshitha D V, a passionate Developer with a keen interest in Tech and Innovation.
+<br/>
 
 🚀 About Me
 🌱 Currently pursuing engineering in learning Artifical Intelligence and Machine Learning.
 📫 How to reach me : rakshithadv859570@gmail.com
+<br/>
 
 ## 🛠️ Tools and Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
