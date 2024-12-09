@@ -1,5 +1,5 @@
 🌟 Welcome to My GitHub Portfolio!
-Hi there! I'm Rakshitha, a passionate Developer with a keen interest in Tech and Innovation.
+Hi there! I'm devpulse100dv, a passionate Developer with a keen interest in Tech and Innovation.
 
 🚀 About Me
 🌱 Currently pursuing engineering in learning Artifical Intelligence and Machine Learning.
