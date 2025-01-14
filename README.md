@@ -31,3 +31,9 @@ Hi there! I'm Rakshitha D V, a passionate Developer with a keen interest in Tech
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/xovM5xbf8Y/)
 
 ⭐️ **_“Code is like humor. When you have to explain it, it’s bad.”_**
+
+
+### Current Stats ⚡
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevPulse100dv&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevPulse100dv&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPulse100dv&layout=compact&theme=radical&hide_border=true)
