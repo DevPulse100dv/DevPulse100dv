@@ -37,5 +37,4 @@ Hi there! I'm Rakshitha D V, a passionate Developer with a keen interest in Tech
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevPulse100dv&theme=radical&hide_border=true)
 <br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevPulse100dv&show_icons=true&theme=radical&hide_border=true)
-<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPulse100dv&layout=compact&theme=radical&hide_border=true)
